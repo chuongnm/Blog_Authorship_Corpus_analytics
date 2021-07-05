@@ -1,0 +1,2 @@
+This project analyze The Blog Authorship Corpus from GitHub datasets for Natural Langugage Processing
+Available at: https://u.cs.biu.ac.il/~koppel/BlogCorpus.htm

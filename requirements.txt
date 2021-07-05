@@ -1,0 +1,4 @@
+The analytics project require python libraries as below:
+1. for data pre-processing: os, io, bs4, pandas, dateutil.parser, urllib.parse, re, nltk.corpus
+2. for descriptive analysis: numpy, matplotlib.pyplot, pandas, searborn
+3. for modelling: sklearn.feature_extraction.text, sklearn.decomposition, nltk.sentiment.vader

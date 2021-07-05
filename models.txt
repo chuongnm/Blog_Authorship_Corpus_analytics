@@ -1,0 +1,2 @@
+1. Using Term Frequency – Inverse Document Frequency (TF-IDF) Vectorizer and Non-negative Matrix for clustering analysis
+2. Using Valence Aware Dictionary for Sentiment Reasoning (Vader) for sentiment analysis 

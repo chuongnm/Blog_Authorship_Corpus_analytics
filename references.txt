@@ -1,0 +1,4 @@
+The Blog Authorship Corpus is semi-unstructured datasets having more than 19k xml files corresponding to 19k bloggers
+After preprocessing, the datasets are transformed to a structured dataset including:
+Blogger_data: about the information of 19k bloggers from the original dataset such as id of blogger, gender, etc.
+data_blog: obtain contents of more than 600k posts from 19k bloggers, publish dates, etc.
